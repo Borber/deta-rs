@@ -1,0 +1,12 @@
+[package]
+name = "deta-rs"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "Deta SDK for Rust"
+keywords = ["deta", "data"]
+homepage = "https://github.com/Borber/deta-rs"
+repository = "https://github.com/Borber/deta-rs"
+readme = "README.md"
+
+[dependencies]
